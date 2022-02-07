@@ -53,7 +53,6 @@ const PropertyDetails = ({data : { price, rentFrequency, rooms, title, baths, ar
                                     key={amenity.text}
                                     fontWeight="bold"
                                     color="blue.400"
-                                    fontSize="1"
                                     p="2"
                                     bg="gray.200"
                                     m="1"
